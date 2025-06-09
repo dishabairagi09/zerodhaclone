@@ -1,8 +1,13 @@
 import React from "react";
-
 import { positions } from "../data/data";
 
+
+
+
+
 const Positions = () => {
+
+ 
   return (
     <>
       <h3 className="title">Positions ({positions.length})</h3>
